@@ -1,0 +1,22 @@
+
+[providers.nvidia]
+version = "1.0.0"
+
+[providers.nvidia.variables.driver_version]
+description = "Your CUDA software version"
+values = ["12.5", "12"]
+
+[providers.nvidia.variables.compute_version]
+description = "Your NVIDIA hardware compute capability"
+values = "8.9"
+
+[providers.cpu]
+version = "1.0.0"
+
+[providers.cpu.variables.arch]
+description = "CPU architecture"
+values = ["x86_64", "AMD64"]
+
+[providers.cpu.variables.simd]
+description = "Hardware-supported CPU SIMD extensions"
+values = ["x86_64v3", "x86_64v2"]
