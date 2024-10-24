@@ -1,0 +1,15 @@
+[
+  {
+    "nvidia.driver_version" = "12.5",
+    "nvidia.compute_version = "8.9",
+    "cpu.architecture" = "x86_64",
+    "cpu.simd" = "x86_64v3"
+   },
+  {
+    "nvidia.driver_version" = "12",
+    "nvidia.compute_version = "8.9",
+    "cpu.architecture" = "x86_64",
+    "cpu.simd" = "x86_64v3"
+   }
+   ...
+]
