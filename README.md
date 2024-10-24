@@ -6,4 +6,7 @@ variants.conf
 * variables are namespaced under provider to avoid confusion
 * captures provider metadata (version, ???) for reproducibility
 
-Example:
+NOTE: combinations do not need to include all keys, but
+combinations that include more keys are higher priority
+
+NOTE: sorting in list of dicts in output is effectively priority
