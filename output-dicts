@@ -12,7 +12,9 @@
     "cpu.simd" = "x86_64v3"
    }
    ...
+   # note: more variables included means higher priority
+   # the lowest possible priority entry is the lowest-priority variable, and the lowest-priority value for that variable
    {
-    "cpu.simd" = "x86_64v3"
+    "cpu.simd" = "x86_64v2"
    }
 ]
