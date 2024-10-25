@@ -1,0 +1,243 @@
+[
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64",
+        "cpu.simd": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64",
+        "cpu.simd": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "AMD64",
+        "cpu.simd": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "AMD64",
+        "cpu.simd": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64",
+        "cpu.simd": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64",
+        "cpu.simd": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "AMD64",
+        "cpu.simd": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "AMD64",
+        "cpu.simd": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "AMD64"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "AMD64"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "x86_64",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "x86_64",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "AMD64",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "AMD64",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "x86_64",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "x86_64",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "AMD64",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "AMD64",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "x86_64",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "x86_64",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "AMD64",
+        "cpu.arch": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "AMD64",
+        "cpu.arch": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "8.9"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "x86_64"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "AMD64"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "x86_64"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "AMD64"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "12",
+        "nvidia.compute_version": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "x86_64"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "AMD64"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "8.9",
+        "nvidia.compute_version": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "x86_64",
+        "nvidia.compute_version": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "x86_64",
+        "nvidia.compute_version": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "AMD64",
+        "nvidia.compute_version": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "AMD64",
+        "nvidia.compute_version": "x86_64v2"
+    },
+    {
+        "nvidia.driver_version": "12.5"
+    },
+    {
+        "nvidia.driver_version": "12"
+    },
+    {
+        "nvidia.driver_version": "8.9"
+    },
+    {
+        "nvidia.driver_version": "x86_64"
+    },
+    {
+        "nvidia.driver_version": "AMD64"
+    },
+    {
+        "nvidia.driver_version": "x86_64v3"
+    },
+    {
+        "nvidia.driver_version": "x86_64v2"
+    }
+]

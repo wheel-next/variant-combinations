@@ -1,0 +1,12 @@
+[
+    {
+        "nvidia.driver_version": "12.5",
+        "nvidia.compute_version": "8.9"
+    },
+    {
+        "nvidia.driver_version": "12.5"
+    },
+    {
+        "nvidia.driver_version": "8.9"
+    }
+]
